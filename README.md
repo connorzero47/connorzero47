@@ -13,6 +13,7 @@ Melbourne, Australia
 <li>Java<br>
 <li>HTML<br>
 <li>CSS<br>
+<li>JSON<br>
 <li>JavaScript
 
 <b><br>Contacts</b><br>
