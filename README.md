@@ -1,5 +1,5 @@
 <b>About Me</b><br>
-I am John Rafael Umali, an upcoming graduate with a Bachelor's degree in Information and Communication Technology from Melbourne, Australia. I am passionate about programming and technology, with a focus on web development and software engineering. I am also skilled in network administration, Mobile Application development, and Data Visualization.
+I am John Rafael Umali, a fresh graduate with a Bachelor's degree in Information and Communication Technology from Melbourne, Australia. I am passionate about programming and technology, with a focus on web development and software engineering. I am also skilled in network administration, Mobile Application development, and Data Visualization.
 
 <b><br>Education</b><br>
 
