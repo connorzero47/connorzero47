@@ -3,7 +3,8 @@ I am John Rafael Umali, a fresh graduate with a Bachelor's degree in Information
 
 <b><br>Education</b><br>
 
-Bachelor of Information and Communication Technology (June 2024)
+Bachelor of Information and Communication Technology
+Graduate Diploma of Managment Information System
 
 <b><br>Location</b><br>
 Melbourne, Australia
