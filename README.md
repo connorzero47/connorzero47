@@ -4,7 +4,7 @@ I am John Rafael Umali, a fresh graduate with a Bachelor's degree in Information
 <b><br>Education</b><br>
 
 Bachelor of Information and Communication Technology
-Graduate Diploma of Managment Information System
+Graduate Diploma of Managment Information Systems
 
 <b><br>Location</b><br>
 Melbourne, Australia
