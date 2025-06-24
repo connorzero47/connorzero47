@@ -12,10 +12,9 @@ Melbourne, Australia
 <b><br>Skills</b><br>
 <li>PHP<br>
 <li>Java<br>
-<li>HTML<br>
-<li>CSS<br>
-<li>JSON<br>
-<li>JavaScript
+<li>Python<br>
+<li>Reactt<br>
+<li>.NET<br>
 
 <b><br>Contacts</b><br>
 <li>LinkedIn: [John Rafael Umali] (https://www.linkedin.com/in/john-rafael-umali/)
