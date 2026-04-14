@@ -13,7 +13,7 @@ Melbourne, Australia
 <li>PHP<br>
 <li>Java<br>
 <li>Python<br>
-<li>Reactt<br>
+<li>React<br>
 <li>.NET<br>
 
 <b><br>Contacts</b><br>
